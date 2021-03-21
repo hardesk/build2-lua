@@ -1,0 +1,6 @@
+$out_root/
+{
+  include upstream/
+}
+
+export $out_root/$import.target
